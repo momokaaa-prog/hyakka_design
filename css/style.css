@@ -399,13 +399,13 @@ h2 span{
     transform: translateX(0px) rotate(0deg);
     }
     100% {
-    transform: translateX(75px) rotate(-45deg);
+    transform: translateX(125px) rotate(-45deg);
     }
 }
 
 @keyframes sway2 {
     0% {
-    transform: translateX(75px) rotate(-45deg);
+    transform: translateX(125px) rotate(-45deg);
     }
     100% {
     transform: translateX(0px) rotate(0deg);
