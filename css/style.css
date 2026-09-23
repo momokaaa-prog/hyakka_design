@@ -20,6 +20,8 @@ body{
     color: #2f4f3a;
 }
 
+
+
 .home header{
     height: 100vh;
 }
@@ -272,6 +274,14 @@ h2 span{
 .container{
     background-color: #ffebc2;
     color: #4a7c59;
+}
+
+.hyakkalogo{
+    width: 118px;
+    position: fixed;
+    top: 40px;
+    left: 85px;
+    z-index: 3;
 }
 
 .container h2{
