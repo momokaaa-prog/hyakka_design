@@ -10,16 +10,6 @@ $(function () {
     });
 });
 
-// $(function () {
-//     $(window).on("scroll", function () {
-//         const sliderHeight = $(".header").height();
-//         if (sliderHeight - 30 < $(this).scrollTop()) {
-//         $(".header").addClass("headerColorScroll");
-//         } else {
-//         $(".header").removeClass("headerColorScroll");
-//         }
-//     });
-// });
 
 $(function () {
     $(window).on("scroll", function () {
